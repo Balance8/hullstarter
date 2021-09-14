@@ -2,7 +2,7 @@
   "root": true,
   "api": {
     "projectId": "z3ml6hik",
-    "dataset": "production"
+    "dataset": "default"
   },
   "project": {
     "name": "HULL",
